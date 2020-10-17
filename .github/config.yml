@@ -2,7 +2,6 @@
 
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
-
 # Or an array:
 requestInfoReplyComment:
   - Ah no! young blade! That was a trifle short!
@@ -34,3 +33,4 @@ requestInfoOn:
 requestInfoUserstoExclude:
   - hiimbex
   - bexo
+
